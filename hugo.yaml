@@ -37,7 +37,7 @@ menu:
       url: /search/
       weight: 4
     - name: CTFs
-      url: /CTFs/
+      url: "https://github.com/JustFernandezz/Capture-the-flags"
       weight: 5
     - name: Whoami
       url: /whoami/
