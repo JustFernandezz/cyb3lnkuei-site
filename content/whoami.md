@@ -61,6 +61,7 @@ I plan to focus on:
 - Red Teaming 
 - Malware Development  
 - Hardware Hacking
+- Satellite Hacking
 
 
 ---
