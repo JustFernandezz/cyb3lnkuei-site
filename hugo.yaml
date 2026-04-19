@@ -36,9 +36,12 @@ menu:
     - name: Search
       url: /search/
       weight: 4
+    - name: CTFs
+      url: /CTFs/
+      weight: 5
     - name: Whoami
       url: /whoami/
-      weight: 5
+      weight: 6
 
 outputs:
   home:
