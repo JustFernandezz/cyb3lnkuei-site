@@ -1,6 +1,6 @@
 ---
 title: "OTP Verification Bypass via Response Manipulation on Email Change Authentication Flow"
-date: 2024-01-01
+date: 2026-04-23
 tags: ["Otp"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
