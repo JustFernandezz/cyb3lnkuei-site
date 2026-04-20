@@ -1,6 +1,6 @@
 ---
 title: "XIAO RP2040 MALICIOUS USB"
-date: 2024-01-01
+date: 2026-02-01
 tags: ["Usb", "malicious"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
