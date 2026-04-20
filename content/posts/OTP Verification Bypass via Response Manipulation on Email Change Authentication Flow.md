@@ -59,7 +59,7 @@ I then used the OTP from the new email to complete the process and successfully 
 
 <img width="1382" height="132" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/83d3b93c-b64f-4e3d-b4d9-b4ab656dc417" />
 
-This could lead to an account takeover if an attacker already has your password but no access to your email
+This could lead to an account takeover if an attacker already has your password but no access to your email.
 
 <h1>IMPACT</h1>
 An attacker who knows the victim's password
