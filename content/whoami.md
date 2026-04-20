@@ -31,7 +31,7 @@ Everything changed in November 2024 when I landed my first role as a penetration
 
 It has now been about two years since I started my career as a penetration tester. The hard work and consistency have paid off, and I’m grateful for how far I’ve come. There’s still a long way to go, and I’m not slowing down anytime soon.
 
-Today, I can some most of my needs, and one of the greatest rewards has been achieving a level of financial independence and work experience at a young age. It’s not everything, but it’s something I’m truly grateful for and just the beginning.
+Today, I can meet some of my needs, and one of the greatest rewards has been achieving a level of financial independence and work experience at a young age. It’s not everything, but it’s something I’m truly grateful for and just the beginning.
 
 ---
 ## Certifications & Degree
