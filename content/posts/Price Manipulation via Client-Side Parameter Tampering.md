@@ -1,6 +1,6 @@
 ---
 title: "Price Manipulation via Client-Side Parameter Tampering"
-date: 2025-05-12T00:00:00Z
+date: 2025-03-02T00:00:00Z
 tags: ["price", "Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough"
