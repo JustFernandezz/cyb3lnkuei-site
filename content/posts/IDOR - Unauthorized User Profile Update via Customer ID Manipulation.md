@@ -1,6 +1,6 @@
 ---
-title: "IDOR — Unauthorized User Profile Update via Customer ID Manipulation"
-date: 2026-04-23
+title: "IDOR - Unauthorized User Profile Update via Customer ID Manipulation"
+date: 2026-03-21
 tags: ["idor"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
