@@ -5,9 +5,10 @@ tags: ["Otp", "Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
 ---
-<h3>Status: Duplicate</h3>
-
-<h3>Severity: Medium</h3>
+![Severity](https://img.shields.io/badge/Severity-Medium-yellow)
+![CWE-798](https://img.shields.io/badge/CWE-798-blue)
+![CWE-312](https://img.shields.io/badge/CWE-312-blue)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Report-informational)
 
 ---
 <b><h1>Overview</h1></b>
