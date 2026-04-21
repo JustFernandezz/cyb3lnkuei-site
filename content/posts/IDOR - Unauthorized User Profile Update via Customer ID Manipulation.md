@@ -5,7 +5,8 @@ tags: ["idor", "Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
 ---
-Severity: ![Severity](https://img.shields.io/badge/High-red?style=flat-square)
+
+Severity: ```High ```
 ---
 > ⚠️ **Note:** All sensitive information (e.g., domains, endpoints, IDs, and personal data) has been redacted or modified. The core vulnerability and methodology remain unchanged.
 
