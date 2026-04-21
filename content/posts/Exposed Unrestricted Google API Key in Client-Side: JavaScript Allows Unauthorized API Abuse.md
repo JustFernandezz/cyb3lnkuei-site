@@ -5,10 +5,10 @@ tags: ["Key", "Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
 ---
-![Severity](https://img.shields.io/badge/Severity-Low-green)
-![CWE-798](https://img.shields.io/badge/CWE-798-blue)
-![CWE-312](https://img.shields.io/badge/CWE-312-blue)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Report-informational)
+![Severity](https://img.shields.io/badge/Low-green?style=flat-square)
+![CWE-798](https://img.shields.io/badge/CWE--798-blue?style=flat-square)
+![CWE-312](https://img.shields.io/badge/CWE--312-blue?style=flat-square)
+![BugBounty](https://img.shields.io/badge/Bug%20Bounty-grey?style=flat-square)
 
 ```Target: uk.romwe.com ```
 ``` Platform: HackerOne ```
