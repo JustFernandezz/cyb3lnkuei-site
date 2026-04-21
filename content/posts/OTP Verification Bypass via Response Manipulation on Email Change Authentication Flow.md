@@ -10,6 +10,9 @@ summary: "Click to read the full walkthrough."
 ![CWE-312](https://img.shields.io/badge/CWE-312-blue)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Report-informational)
 
+
+``` Platform: HackerOne ```
+``` Status: Duplicate ```
 ---
 <b><h1>Overview</h1></b>
 
