@@ -5,10 +5,10 @@ tags: ["Otp", "Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
 ---
-![Severity](https://img.shields.io/badge/Severity-Medium-yellow)
-![CWE-798](https://img.shields.io/badge/CWE-798-blue)
-![CWE-312](https://img.shields.io/badge/CWE-312-blue)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Report-informational)
+![Severity](https://img.shields.io/badge/Medium-yellow?style=flat-square)
+![CWE-798](https://img.shields.io/badge/CWE--798-blue?style=flat-square)
+![CWE-312](https://img.shields.io/badge/CWE--312-blue?style=flat-square)
+![BugBounty](https://img.shields.io/badge/Bug%20Bounty-grey?style=flat-square)
 
 
 ``` Platform: HackerOne ```
