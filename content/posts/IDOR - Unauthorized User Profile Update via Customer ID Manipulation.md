@@ -3,7 +3,7 @@ title: "IDOR - Unauthorized User Profile Update via Customer ID Manipulation"
 date: 2026-03-21
 tags: ["idor", "Bug"]
 author: "Fernandez"
-summary: "Click to read the full walkthrough."
+summary: "Click to read the full walkthrough"
 ---
 
 Severity: ```High ```
