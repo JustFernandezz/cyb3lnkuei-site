@@ -1,5 +1,5 @@
 ---
-title: "XIAO RP2040 MALICIOUS USB"
+title: "XIAO RP2040 MALICIOUS USB."
 date: 2026-02-01
 tags: ["Usb", "malicious"]
 author: "Fernandez"
