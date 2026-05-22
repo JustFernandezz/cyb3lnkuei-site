@@ -29,9 +29,13 @@ To cut a long story short, my journey wasn’t widely supported at home. My pare
 
 Everything changed in November 2024 when I landed my first role as a penetration tester. I don’t even remember applying to that specific company, it likely came from a period where I was sending out applications consistently without expecting a response. I traveled to Lagos, went through the interview process, and secured the role. From that moment, the belief in my journey began to change.
 
+Ever since then, I’ve been getting gigs from clients and referrals, and it has honestly been life changing. It reminded me that sometimes the opportunities you’re praying for start showing up quietly before you even realize how much things are changing.
+
 It has now been about two years since I started my career as a penetration tester. The hard work and consistency have paid off, and I’m grateful for how far I’ve come. There’s still a long way to go, and I’m not slowing down anytime soon.
 
 Today, I can meet some of my needs, and one of the greatest rewards has been achieving a level of financial independence and work experience at a young age. It’s not everything, but it’s something I’m truly grateful for and just the beginning.
+
+Just never stop believing in yourself and keep doing what you're doing. The journey is yours and not theirs, so they can’t see what is ahead. Only you can see.
 
 ---
 ## Certifications & Degree
@@ -61,7 +65,6 @@ I plan to focus on:
 - Red Teaming 
 - Malware Development  
 - Hardware Hacking
-- Satellite Hacking
 
 
 ---
