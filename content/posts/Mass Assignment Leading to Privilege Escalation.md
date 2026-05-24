@@ -10,3 +10,6 @@ Severity: ```Critical```
 
 Type: ```Penetration Test Assessment```
 
+## Description
+The staff profile update endpoint does not restrict which fields a user can modify. By injecting role and roleId into the update request body, a regular Account-level user can self-promote to Admin — gaining full administrative access without any server-side authorisation check.
+
