@@ -10,6 +10,8 @@ Severity: ```Critical```
 
 Type: ```Penetration Test Assessment```
 
+Platform: ```Financial Application```
+
 ## Description
 The application is vulnerable to Mass Assignment, allowing client-supplied parameters to be automatically mapped to backend objects without proper restrictions on sensitive attributes.
 
