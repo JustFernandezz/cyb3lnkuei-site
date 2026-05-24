@@ -48,6 +48,8 @@ If the backend returns role information, is it also trusting role-related fields
 
 The application UI never exposed any role modification functionality, but APIs often reveal more than the frontend intends.
 
+Also, I had an idea of different roles and roleIds that existed for an admin,account or supervisor account which I got from an admin test account and also from inspecting Javascript files of the applications. So an admin account was provisioned and also a regular user account. This test is being done on the regular user account to see if we can escalate privileges.
+
 ## Exploitation
 I intercepted the profile update request using Burp Suite.
 
