@@ -11,5 +11,9 @@ Severity: ```Critical```
 Type: ```Penetration Test Assessment```
 
 ## Description
-The staff profile update endpoint does not restrict which fields a user can modify. By injecting role and roleId into the update request body, a regular Account-level user can self-promote to Admin — gaining full administrative access without any server-side authorisation check.
+The application is vulnerable to Mass Assignment, allowing client-supplied parameters to be automatically mapped to backend objects without proper restrictions on sensitive attributes.
+
+During testing, a legitimate request was made to retrieve user details, which returned user information including the current role value <b>(Account)</b>. The application later accepted additional privilege-related parameters manually inserted into the update request, specifically <b>role</b> and <b>roleId</b>.
+
+Because the backend failed to enforce server-side restrictions on modifiable attributes, the application processed the injected parameters and updated the user's role to <b>Admin</b>, resulting in unauthorized privilege escalation.
 
