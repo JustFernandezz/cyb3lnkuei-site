@@ -8,11 +8,8 @@ params:
 
   profileMode:
     enabled: true
-    title: "Sniff Networks not Drugs!!"
     subtitle: "Offensive Security 🔴🧑‍💻 | Security Researcher"
-    imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    
 
   socialIcons:
     - name: linkedin
