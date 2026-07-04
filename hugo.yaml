@@ -1,0 +1,59 @@
+baseURL: "https://JustFernandezz.github.io/cyb3lnkuei-site/"
+languageCode: "en-us"
+title: "JustF3rnand3zz"
+theme: "PaperMod"
+
+params:
+  defaultTheme: dark
+
+  profileMode:
+    enabled: true
+    title: "Sniff Networks not Drugs!!"
+    subtitle: "Offensive Security 🔴🧑‍💻 | Security Researcher"
+    imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
+    imageWidth: 120
+    imageHeight: 120
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/justfernandezz/"
+    - name: github
+      url: "https://github.com/JustFernandezz"
+    - name: instagram
+      url: "https://www.instagram.com/justfernandezz/"
+  
+  
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Hacking_Projs
+      url: /posts/
+      weight: 2
+    - name: Links
+      url: /tags/
+      weight: 3
+    - name: Search
+      url: /search/
+      weight: 4
+    - name: CTFs
+      url: "https://github.com/JustFernandezz/Capture-the-flags"
+      weight: 5
+    - name: Whoami
+      url: /whoami/
+      weight: 6
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+server:
+  redirects: []
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
