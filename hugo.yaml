@@ -8,11 +8,7 @@ params:
 
   profileMode:
     enabled: true
-    subtitle: Fernandez
-
-Offensive Security Consultant
-
-I help organizations identify vulnerabilities in web applications, APIs, Active Directory environments, and internal networks through comprehensive penetration testing."
+    subtitle: "Fernandez Offensive Security Consultant. I help organizations identify vulnerabilities in web applications, APIs, Active Directory environments, and internal networks through comprehensive penetration testing."
     
 
   socialIcons:
