@@ -1,15 +1,16 @@
 baseURL: "https://JustFernandezz.github.io/cyb3lnkuei-site/"
 languageCode: "en-us"
-title: "JustF3rnand3zz"
+title: "Fernandez"
 theme: "PaperMod"
 
 params:
   defaultTheme: dark
 
-  profileMode:
-    enabled: true
-    subtitle: "Fernandez Offensive Security Consultant. I help organizations identify vulnerabilities in web applications, APIs, Active Directory environments, and internal networks through comprehensive penetration testing."
-    
+ homeInfoParams:
+    Title: "Fernandez"
+    Content: >
+      Offensive Security Consultant specializing in Web Application,
+      API, Active Directory, Internal Network and Wireless Penetration Testing.
 
   socialIcons:
     - name: linkedin
