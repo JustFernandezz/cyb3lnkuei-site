@@ -8,11 +8,12 @@ params:
 
   profileMode:
     enabled: true
-    title: "Sniff Networks not Drugs!!"
-    subtitle: "Offensive Security 🔴🧑‍💻 | Security Researcher"
-    imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    subtitle: Fernandez
+
+Offensive Security Consultant
+
+I help organizations identify vulnerabilities in web applications, APIs, Active Directory environments, and internal networks through comprehensive penetration testing."
+    
 
   socialIcons:
     - name: linkedin
