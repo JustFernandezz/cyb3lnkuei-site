@@ -6,11 +6,8 @@ theme: "PaperMod"
 params:
   defaultTheme: dark
 
- homeInfoParams:
-    Title: "Fernandez"
-    Content: >
-      Offensive Security Consultant specializing in Web Application,
-      API, Active Directory, Internal Network and Wireless Penetration Testing.
+ profileMode:
+  enabled: true
 
   socialIcons:
     - name: linkedin
