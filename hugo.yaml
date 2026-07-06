@@ -28,7 +28,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Hacking_Projs
+    - name: Hacking_Projects
       url: /posts/
       weight: 2
     - name: Links
