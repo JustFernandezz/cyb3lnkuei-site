@@ -10,6 +10,7 @@ params:
     enabled: true
     title: "Sniff Networks not Drugs!!"
     subtitle: "Offensive Security 🔴🧑‍💻 | Security Researcher"
+    Subtitle: "Web Applications • APIs • Active Directory • Internal Networks • Wireless • Social Engineering"
     imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
     imageWidth: 120
     imageHeight: 120
