@@ -10,9 +10,9 @@ params:
     enabled: true
     title: "Sniff Networks not Drugs!!"
     subtitle: >
-    Offensive Security 🔴🧑‍💻 | Security Researcher
+      Offensive Security 🔴🧑‍💻 | Security Researcher
     
-      Web Applications • APIs • Active Directory • Internal Networks • Wireless • Social Engineering
+       Web Applications • APIs • Active Directory • Internal Networks • Wireless • Social Engineering
       
     imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
     imageWidth: 120
