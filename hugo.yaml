@@ -35,9 +35,6 @@ menu:
     - name: Hacking_Projects
       url: /posts/
       weight: 2
-    - name: Links
-      url: /tags/
-      weight: 3
     - name: Search
       url: /search/
       weight: 4
