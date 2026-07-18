@@ -32,7 +32,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Hacking_Projects
+    - name: Projects
       url: /posts/
       weight: 2
     - name: Search
