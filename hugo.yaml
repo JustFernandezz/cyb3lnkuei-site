@@ -1,4 +1,4 @@
-baseURL: "https://JustFernandezz.github.io/cyb3lnkuei-site/"
+baseURL: "https://justfernandezz.github.io/cyb3lnkuei-site/"
 languageCode: "en-us"
 title: "JustF3rnand3zz"
 theme: "PaperMod"
@@ -9,11 +9,15 @@ params:
   profileMode:
     enabled: true
     title: "Sniff Networks not Drugs!!"
-    subtitle: >
+    subtitle: |
       Offensive Security 🔴🧑‍💻 | Security Researcher
-    
-       Web Applications • APIs • Active Directory • Internal Networks • Wireless • Social Engineering
-      
+
+      Web Applications • APIs • Active Directory • Internal Networks • Wireless • Social Engineering
+
+      <br><br>
+
+      <img src="/cyb3lnkuei-site/images/CRTA.jfif" width="350" alt="CRTA">
+
     imageUrl: "images/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -25,36 +29,3 @@ params:
       url: "https://github.com/JustFernandezz"
     - name: instagram
       url: "https://www.instagram.com/justfernandezz/"
-  
-  
-menu:
-  main:
-    - name: Home
-      url: /
-      weight: 1
-    - name: Projects
-      url: /posts/
-      weight: 2
-    - name: Search
-      url: /search/
-      weight: 4
-    - name: CTFs
-      url: "https://github.com/JustFernandezz/Capture-the-flags"
-      weight: 5
-    - name: Whoami
-      url: /whoami/
-      weight: 6
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
-server:
-  redirects: []
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
