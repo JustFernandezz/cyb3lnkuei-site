@@ -35,7 +35,7 @@ menu:
     - name: Projects
       url: /posts/
       weight: 2
-     - name: Certifications
+    - name: Certifications
       url: /certifications/
       weight: 3
     - name: Search
