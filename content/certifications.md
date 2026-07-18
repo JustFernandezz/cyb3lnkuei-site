@@ -6,6 +6,6 @@ title: "Certifications"
 
 ## Certified Red Team Analyst (CRTA)
 
-![CRTA](/images/CRTA.jfif)
+![CRTA](/static/images/CRTA.jfif)
 
 Issued by Altered Security.
