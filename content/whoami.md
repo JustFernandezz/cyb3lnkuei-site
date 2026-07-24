@@ -9,34 +9,41 @@ date: 2026-04-18
 
 ## 🧍‍♂️Introduction
 
-I’m Fernandez, a curious mind who enjoys breaking and securing systems. I work in offensive security as a Penetration Tester and Solutions Engineer, focusing on web, API, network, active directory, wireless security, and red teaming.
+I’m Fernandez, an Offensive Security Engineer and Penetration Tester with a strong curiosity for understanding how systems work, how they can be compromised, and how they can be better secured.
+
+My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective—thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
 
 ---
 
 ## My Journey
 
-I began my journey into cybersecurity in 2021, a year after graduating from secondary school, at a time when I wasn’t sure what direction my life was heading.
+I’m Fernandez, an Offensive Security Engineer and Penetration Tester with a strong curiosity for understanding how systems work, how they can be compromised, and how they can be better secured.
 
-An uncle figure in my life, who works as a farmer, encouraged me to explore cybersecurity. Although he had little to no background in tech, he understood its value and believed I could succeed in it. At the time, I knew almost nothing about hacking, only what I had seen in movies, but his belief in me pushed me to take the first step.
+My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective—thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
 
-I’ve always had a natural interest in computers, and that curiosity made the transition easier. I was also fortunate to have a skilled computer engineer in my circle, someone I consider both family and an advisor. From him, I learned a lot about computers, and he constantly challenged me to grow while reinforcing his belief in my potential.
+My Journey
 
-I started learning through Cybrary, taking advantage of both free and trial-based courses. Whenever my 14-day trial expired, I created new accounts just to keep learning and finish what I started. I completed courses such as Introduction to Cybersecurity, CompTIA Security+, Linux+ (with my favorite instructor, Rob Goelz), Python for Cybersecurity, and computer networking through Professor Messer’s training videos, among others.
+My journey into cybersecurity began in 2021, a year after I graduated from secondary school. At the time, I wasn't entirely sure what direction I wanted my career to take.
 
-After building a foundation, I hesitated to dive into hacking because I wasn’t sure I would understand it. Eventually, I pushed past that fear and started in late 2022. I remember selling my gaming desktop just to purchase an Alpha AWUS036ACH wireless adapter so I could practice Wi-Fi hacking. That moment defined how serious I was about learning, I didn’t just want to watch; I wanted to truly understand how things worked.
+An uncle figure in my life, who works as a farmer, encouraged me to explore cybersecurity. Although he had little to no technical background, he understood the growing importance of technology and believed I could build a career in the field. At the time, my understanding of hacking was largely based on what I had seen in movies, but his encouragement pushed me to take my first steps.
 
-To cut a long story short, my journey wasn’t widely supported at home. My parents and siblings wanted me to follow a traditional path and go to school, which led to frequent disagreements over the years. From their perspective, there was nothing tangible to show, no income, just continuous learning.
+I had always been naturally curious about computers, which made the transition into technology feel almost instinctive. I was also fortunate to have a skilled computer engineer in my circle—someone I consider both family and a mentor. Through him, I gained a deeper understanding of computers and developed a stronger desire to keep learning and improving.
 
-Everything changed in November 2024 when I landed my first role as a penetration tester. I don’t even remember applying to that specific company, it likely came from a period where I was sending out applications consistently without expecting a response. I traveled to Lagos, went through the interview process, and secured the role. From that moment, the belief in my journey began to change.
+I began my learning journey through platforms such as Cybrary and other online resources, building a foundation in cybersecurity, Linux, Python, and computer networking. I studied topics ranging from introductory cybersecurity concepts and CompTIA Security+ material to Linux administration, Python for cybersecurity, and networking through resources such as Professor Messer.
 
-Ever since then, I’ve been getting gigs from clients and referrals, and it has honestly been life changing. It reminded me that sometimes the opportunities you’re praying for start showing up quietly before you even realize how much things are changing.
+After building a foundation, I eventually decided to explore offensive security more seriously. I initially hesitated because I wasn't sure whether I would be able to understand the technical depth involved. In late 2022, I pushed past that hesitation and began actively learning penetration testing and offensive security.
 
-It has now been about two years since I started my career as a penetration tester. The hard work and consistency have paid off, and I’m grateful for how far I’ve come. There’s still a long way to go, and I’m not slowing down anytime soon.
+One of the moments that stands out to me was selling my gaming desktop to purchase an Alfa AWUS036ACH wireless adapter so I could practice wireless security. That decision represented how serious I had become about learning. I didn't want to simply consume cybersecurity content—I wanted to understand how systems worked by building, testing, breaking, and experimenting with them myself.
 
-Today, I can meet some of my needs, and one of the greatest rewards has been achieving a level of financial independence and work experience at a young age. It’s not everything, but it’s something I’m truly grateful for and just the beginning.
+Over time, I continued developing my skills through hands-on labs, security research, Capture The Flag challenges, certifications, personal projects, and real-world security assessments.
 
-Just never stop believing in yourself and keep doing what you're doing. The journey is yours and not theirs, so they can’t see what is ahead. Only you can see.
+In November 2024, I landed my first professional role as a Penetration Tester. That opportunity marked an important turning point in my journey and allowed me to transition from primarily learning and practicing independently to applying my skills in professional environments.
 
+Since then, I've had the opportunity to work on security assessments, support clients, collaborate with security teams, and take on independent engagements and referrals. Every engagement has given me the opportunity to learn something new and further develop my approach to offensive security.
+
+Today, I'm grateful for how far I've come, but I also recognize that there is still a lot more to learn. Cybersecurity is a field that constantly evolves, and that's one of the things I enjoy most about it. There is always another system to understand, another technique to explore, and another challenge to solve.
+
+My journey is still in its early stages, and I'm just getting started.
 ---
 ## Certifications & Degree
 - Bsc Cybersecurity (In-Progress)
@@ -48,14 +55,7 @@ Just never stop believing in yourself and keep doing what you're doing. The jour
 
 ---
 
-## 🪟 Life outside of infosec, the last 20%
 
-When I'm not hacking, I enjoy:
-- Listening to music
-- Playing video games on my console  
-- Posting memes
-- Leveling up my skill
-- building hacking tools & projects  
 
 ---
 
