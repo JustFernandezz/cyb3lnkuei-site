@@ -62,8 +62,8 @@ My journey is still in its early stages, and I'm just getting started.
 ## ✨ Future plans
 
 I plan to focus on:
-- Red Teaming 
-- Malware Development  
+- Consultancy
+- Red Teaming  
 - Hardware Hacking
 
 
