@@ -23,9 +23,10 @@ My work focuses on Web Applications, APIs, Internal Networks, Active Directory, 
 
 My Journey
 
-My journey into cybersecurity began in 2021, a year after I graduated from secondary school. At the time, I wasn't entirely sure what direction I wanted my career to take.
+My journey into cybersecurity began in 2021. At the time, I wasn't entirely sure what direction I wanted my career to take.
 
 An uncle figure in my life, who works as a farmer, encouraged me to explore cybersecurity. Although he had little to no technical background, he understood the growing importance of technology and believed I could build a career in the field. At the time, my understanding of hacking was largely based on what I had seen in movies, but his encouragement pushed me to take my first steps.
+
 
 I had always been naturally curious about computers, which made the transition into technology feel almost instinctive. I was also fortunate to have a skilled computer engineer in my circle—someone I consider both family and a mentor. Through him, I gained a deeper understanding of computers and developed a stronger desire to keep learning and improving.
 
