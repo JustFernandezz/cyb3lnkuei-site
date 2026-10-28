@@ -79,3 +79,22 @@ Then used the Manager's WAR file to deploy upload form to push ```webshell.war``
 <img width="935" height="461" alt="Screenshot 2026-10-28 093850" src="https://github.com/user-attachments/assets/6cc51ed5-d38c-48d1-8168-5c58406cc713" />
 <h5><i>Figure 2 — The Tomcat Manager Deploy form used to upload the WAR file, with Server Information confirming
 Tomcat/JVM/OS details.</h5></i>
+
+Tomcat auto-deployed it under the application path shown in the Manager's application list (```/webshell```),
+confirmed as Running alongside the server's other deployed contexts.
+<img width="928" height="399" alt="Screenshot 2026-10-28 093950" src="https://github.com/user-attachments/assets/d11c96df-b36d-4efa-8163-028bb081be99" />
+<h5></i>Figure 3 — Updated application list showing /webshell deployed and running</h5></i>
+
+Browsing to: ```http://<target>:8080/webshell/index.jsp?cmd=ifconfig```
+returned live output from the host's network interfaces; ens160 with its assigned IP and MAC, loopback
+stats, and packet counters — confirming arbitrary command execution on the underlying server, not just
+the web application sandbox.
+
+<img width="954" height="323" alt="Screenshot 2026-10-28 094148" src="https://github.com/user-attachments/assets/c3902f4d-79f2-4d48-b0c0-4305a9ffb175" />
+<h5><i></i>Figure 4 — Webshell executing ifconfig via the deployed JSP, returning live network interface data from the host.</h5></i>
+
+## Exploitation: Automated Path (Metasploit)
+
+
+
+
