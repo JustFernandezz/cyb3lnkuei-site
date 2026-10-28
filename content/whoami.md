@@ -11,7 +11,7 @@ date: 2026-04-18
 
 I’m Fernandez, an Offensive Security Engineer and Penetration Tester with a strong curiosity for understanding how systems work, how they can be compromised, and how they can be better secured.
 
-My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective—thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
+My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective, thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
 
 ---
 
@@ -19,7 +19,7 @@ My work focuses on Web Applications, APIs, Internal Networks, Active Directory, 
 
 I’m Fernandez, an Offensive Security Engineer and Penetration Tester with a strong curiosity for understanding how systems work, how they can be compromised, and how they can be better secured.
 
-My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective—thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
+My work focuses on Web Applications, APIs, Internal Networks, Active Directory, Wireless Security, and Red Teaming. I enjoy approaching security from an adversarial perspective, thinking like an attacker to identify weaknesses before they can be exploited by real-world threats.
 
 My Journey
 
@@ -28,13 +28,13 @@ My journey into cybersecurity began in 2021. At the time, I wasn't entirely sure
 An uncle figure in my life, who works as a farmer, encouraged me to explore cybersecurity. Although he had little to no technical background, he understood the growing importance of technology and believed I could build a career in the field. At the time, my understanding of hacking was largely based on what I had seen in movies, but his encouragement pushed me to take my first steps.
 
 
-I had always been naturally curious about computers, which made the transition into technology feel almost instinctive. I was also fortunate to have a skilled computer engineer in my circle—someone I consider both family and a mentor. Through him, I gained a deeper understanding of computers and developed a stronger desire to keep learning and improving.
+I had always been naturally curious about computers, which made the transition into technology feel almost instinctive. I was also fortunate to have a skilled computer engineer in my circle, someone I consider both family and a mentor. Through him, I gained a deeper understanding of computers and developed a stronger desire to keep learning and improving.
 
 I began my learning journey through platforms such as Cybrary and other online resources, building a foundation in cybersecurity, Linux, Python, and computer networking. I studied topics ranging from introductory cybersecurity concepts and CompTIA Security+ material to Linux administration, Python for cybersecurity, and networking through resources such as Professor Messer.
 
 After building a foundation, I eventually decided to explore offensive security more seriously. I initially hesitated because I wasn't sure whether I would be able to understand the technical depth involved. In late 2022, I pushed past that hesitation and began actively learning penetration testing and offensive security.
 
-One of the moments that stands out to me was selling my gaming desktop to purchase an Alfa AWUS036ACH wireless adapter so I could practice wireless security. That decision represented how serious I had become about learning. I didn't want to simply consume cybersecurity content—I wanted to understand how systems worked by building, testing, breaking, and experimenting with them myself.
+One of the moments that stands out to me was selling my gaming desktop to purchase an Alfa AWUS036ACH wireless adapter so I could practice wireless security. That decision represented how serious I had become about learning. I didn't want to simply consume cybersecurity content. I wanted to understand how systems worked by building, testing, breaking, and experimenting with them myself.
 
 Over time, I continued developing my skills through hands-on labs, security research, Capture The Flag challenges, certifications, personal projects, and real-world security assessments.
 
