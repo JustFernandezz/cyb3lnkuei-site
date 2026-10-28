@@ -1,6 +1,6 @@
 ---
 title: "Apache: From Default Creds to RCE"
-date: 2026-16-06T00:00:00Z
+date: 2026-7-06T00:00:00Z
 tags: ["Bug"]
 author: "Fernandez"
 summary: "Click to read the full walkthrough."
